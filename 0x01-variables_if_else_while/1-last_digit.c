@@ -4,7 +4,7 @@
 /**
  * main - main block
  * Descripition: compare a random number's last digit, with 5
- * Return 0
+ * Return: 0
  */
 
 int main(void)
