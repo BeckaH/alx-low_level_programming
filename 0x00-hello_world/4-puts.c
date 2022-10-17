@@ -1,6 +1,6 @@
-#include <studio.h>
+#include <stdio.h>
 /**
- * main - write 'programming is like building puzzle'
+ * main - write 'Programming is like a puzzle'
  * Return : Always 0 (success)
  */
 int main(void)
