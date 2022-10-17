@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - write 'programming is like building puzzle'
  * Return : Always 0 (success)
