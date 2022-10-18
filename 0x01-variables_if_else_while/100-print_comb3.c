@@ -23,7 +23,7 @@ int main(void)
 
 			if (c + d != 18)
 			{
-				putchar(',')
+				putchar(',');
 				putchar(' ');
 			}
 			c++;
