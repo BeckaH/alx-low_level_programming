@@ -5,7 +5,7 @@
  *
  * return void
  */
-void time_tables(void)
+void time_table(void)
 {
 	int a, b, c;
 
