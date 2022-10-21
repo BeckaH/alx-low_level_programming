@@ -13,7 +13,8 @@ int main(void)
 	for (n = 2; n < i; n++)
 	{
 		if (i % n == 0)
-		{	i = i / n;
+		{	
+			i = i / n;
 			n--;
 		}
 	}
