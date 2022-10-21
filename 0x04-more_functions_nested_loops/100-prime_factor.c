@@ -3,7 +3,7 @@
 /**
  * main - entry line
  * @void: no argument
- * Return: Always 0
+ * Return: alway 0
  */
 int main(void)
 {
