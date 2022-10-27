@@ -5,6 +5,7 @@
  * @str: input
  * Return: 0
  */
+
 char *leet(char *str)
 {
 	int indx1 = 0, indx2;
@@ -22,4 +23,5 @@ char *leet(char *str)
 		}
 
 		return (str);
+
 }
